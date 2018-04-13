@@ -1,0 +1,22 @@
+
+Total number of session: 500
+Total number of utterances: 31300
+
+Format:
+stu_fefe5f18e-20141019-0239	"now what?"	ut95	T	Prompt	Approach	Scaffolding
+
+stu_fefe5f18e-20141019-0239:student_id 
+"now what?" : utterance	
+T: Speaker( T for teacher and S for student)
+Prompt: Dialog Act
+Approach : Dialog Sub-Act
+Scaffolding : Dialog Mode
+
+
+
+The set of dialogue modes defined by the experts are:
+Opening, Problem Identification, Assessment, Method
+Identification, Method Roadmap, Rapport Building,
+Process Negotiation, MetaCognition, Sensemaking,
+Fading, Scaffolding, Modelling, Telling, Session
+Summary, WrapUp/Close, and Off-topic
